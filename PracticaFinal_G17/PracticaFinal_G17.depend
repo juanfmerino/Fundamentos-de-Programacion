@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1548187063 source:c:\users\juand\onedrive\escritorio\juan\universidad\segundo año\fundamentos\practicafinal_g17\main.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
